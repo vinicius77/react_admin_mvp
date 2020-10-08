@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": "34husd9hsdw3",
+      "title": "Fix the GraphQL bug",
+      "body": "This is a reminder for fixing a bug",
+      "created_at": "10-05-2020"
+    },
+    {
+      "id": "sa09u34hons",
+      "title": "Finish the React-Admin MVP",
+      "body": "This is a reminder to finish the MVP",
+      "created_at": "05-06-2020"
+    },
+    {
+      "id": "09234joef8",
+      "title": "Read the next chapter of Eloquent Javascript book",
+      "body": "Keep advancing with the reading",
+      "created_at": "02-03-2020"
+    }
+  ],
+  "users": [
+    {
+      "id": "90873h9sad79",
+      "name": "Vinicius",
+      "email": "vbonifacio@primeapecoder.com"
+    }
+  ]
+}
